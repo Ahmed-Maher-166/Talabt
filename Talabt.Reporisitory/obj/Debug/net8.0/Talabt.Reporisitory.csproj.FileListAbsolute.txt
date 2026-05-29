@@ -1,0 +1,15 @@
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.csproj.AssemblyReference.cache
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.AssemblyInfoInputs.cache
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.AssemblyInfo.cs
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\bin\Debug\net8.0\Talabt.Reporisitory.deps.json
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\bin\Debug\net8.0\Talabt.Reporisitory.dll
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\bin\Debug\net8.0\Talabt.Reporisitory.pdb
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\bin\Debug\net8.0\Talabat.Core.dll
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\bin\Debug\net8.0\Talabat.Core.pdb
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.R.CB087314.Up2Date
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.dll
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\refint\Talabt.Reporisitory.dll
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\Talabt.Reporisitory.pdb
+C:\Users\ahmed\source\repos\Talabat\Talabt.Reporisitory\obj\Debug\net8.0\ref\Talabt.Reporisitory.dll
