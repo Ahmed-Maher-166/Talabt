@@ -24,13 +24,16 @@ namespace Talabt.Reporisitory
         }
         public static async Task SeedDataFromJsonAsync<T>(StoreContext dbContext, string filePath) where T : class
         {
-            var data = File.ReadAllText(filePath);
-            var items = JsonSerializer.Deserialize<List<T>>(data);
-            if (items?.Count == 0)
+            if (!await dbContext.Set<T>().AnyAsync())
             {
-                foreach (var item in items)
-                 await dbContext.Set<T>().AddAsync(item);               
-                await dbContext.SaveChangesAsync();
+                var data = File.ReadAllText(filePath);
+                var items = JsonSerializer.Deserialize<List<T>>(data);
+                if (items?.Count > 0)
+                {
+                    foreach (var item in items)
+                        await dbContext.Set<T>().AddAsync(item);
+                    await dbContext.SaveChangesAsync();
+                }
             }
         }
     }
